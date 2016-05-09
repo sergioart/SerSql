@@ -7,9 +7,9 @@ This is very simple Sql Class with html query form!
 
 Work with MySql!
 
-if you want to get data from the database, create a file * .php in the directory where the file 'Ser_Sql_query.Class.php'.
+if you want to get data from the database, create a file '* .php' in the directory where the file 'Ser_Sql_query.Class.php'.
 
- *.php text:
+ '*.php' text:
 
     <?php
     
