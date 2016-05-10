@@ -22,7 +22,7 @@ if you want to get data from the database, create a file '* .php' in the directo
             
         echo('</body></html>');
       
-      unset($query2);
+      unset($query);
       
     ?>
 
